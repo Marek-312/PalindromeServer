@@ -1,0 +1,15 @@
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.sourcelink.json
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\bin\Debug\net8.0\PalindromeServer.exe
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\bin\Debug\net8.0\PalindromeServer.deps.json
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\bin\Debug\net8.0\PalindromeServer.runtimeconfig.json
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\bin\Debug\net8.0\PalindromeServer.dll
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\bin\Debug\net8.0\PalindromeServer.pdb
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.dll
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\refint\PalindromeServer.dll
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.pdb
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\PalindromeServer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Mare Skola\Sistemsko programiranje\projekat1\PalindromeServer\obj\Debug\net8.0\ref\PalindromeServer.dll
